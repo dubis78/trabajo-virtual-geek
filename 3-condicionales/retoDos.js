@@ -1,3 +1,4 @@
+'use strict';
 let nombre1 = 'Dubenis', nombre2='Andrea',entrada;
 
 entrada=prompt("Ingrese su nombre: ");
